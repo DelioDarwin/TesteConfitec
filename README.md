@@ -1,6 +1,7 @@
 # TesteConfitec
 
 Teste Confitec - Tecnologias utilizadas: **Angular 16, Bootstrap, .Net Core 3.1 e .Net Entity Framework Core**
+
 Criador: **Delio Darwin**
 
 **Configuração:**
