@@ -1,0 +1,10 @@
+public class ContextoFactory : IDesignTimeDbContextFactory<Contexto>
+{
+    public Contexto CreateDbContext(string[] args)
+    {
+        var optionsBuilder = new DbContextOptionsBuilder<Contexto>();
+        optionsBuilder.UseSqlite("Data Source=Confitec.db");
+
+        return new BloggingContext(optionsBuilder.Options);
+    }
+}
