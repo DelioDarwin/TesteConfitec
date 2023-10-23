@@ -2,10 +2,10 @@
 
 Teste Confitec - Tecnologias utilizadas: **Angular 16, Bootstrap, .Net Core 3.1 e .Net Entity Framework Core**
 
-Criador: **Delio Darwin** ... 
+Criador: **Delio Darwin**... 
 
 
-**Configuração:**
+...**Configuração:**
 
 1 - Crie um banco de dados SQL Server como o nome: Confitec;
 
