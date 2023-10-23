@@ -17,7 +17,7 @@ Criador: **Delio Darwin**
       insert into [dbo].[Escolaridades] values ('Infantil')
       insert into [dbo].[Escolaridades] values ('Fundamental')
       insert into [dbo].[Escolaridades] values ('Médio')
-      *insert into [dbo].[Escolaridades] values ('Superior')
+      insert into [dbo].[Escolaridades] values ('Superior')
 
 3 - Execute a aplicação backend WebAPI pelo terminal através do comando: 
 
